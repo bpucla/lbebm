@@ -1,4 +1,4 @@
-# Trajectory Prediction with Latent Space Energy-Based Model
+## Trajectory Prediction with Latent Space Energy-Based Model
 
 ## Requirements:
 ```
